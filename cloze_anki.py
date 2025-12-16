@@ -23,7 +23,7 @@ def add_same_columns_to_tsv(input_file, output_file, obsidian_url, tag):
             modified_line = '\t'.join(columns)
             
             # 添加相同的obsidian_url和tag列
-            new_line = f"{modified_line}\t{obsidian_url}\t{tag}\n"
+            new_line = f"{modified_line}\t{obsidian_url}\t\t{tag}\n"
             f.write(new_line)
 
 # 示例使用
@@ -37,3 +37,4 @@ if __name__ == "__main__":
     
     add_same_columns_to_tsv(input_file, output_file, obsidian_url, tag)
     print("处理完成！")
+

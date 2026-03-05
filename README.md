@@ -75,6 +75,7 @@ ladder-practice-cited  →  2. anki-card  →  3. quiz-card
 | 文件 | 说明 |
 |:---|:---|
 | ladder-practice.md | 阶梯式练习 Prompt |
+| ladder-practice-cited.md | 带引用的阶梯式练习 Prompt |
 | anki-card.md | Anki 制卡 Prompt |
 | quiz-card.md | 选择题制卡 Prompt（通用版） |
 | quiz-card-med.md | 选择题制卡 Prompt（医学专用版） |

@@ -1,4 +1,4 @@
-# Anki 制卡 Prompt v6
+# Anki 制卡 Prompt
 
 输入：已完成的练习/讲义 → 输出：代码块，TAB分隔4字段，直接导入Anki
 
